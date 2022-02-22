@@ -37,3 +37,13 @@ Segmentation prédite à partir d'image radar :
 La vraie segmenetation (ground truth) :
 
 <img src="/image/radar_groundtruth.png" width="800">
+
+
+
+Pour les images 272x80 :
+
+
+```
+dice_coef = 66,21% 
+Iou_coef: 53,70%
+```
