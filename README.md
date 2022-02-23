@@ -22,8 +22,8 @@ history = model.fit(X_train,y_train, epochs=40, batch_size=10, validation_data=(
 
 Pour mesurer la performance on utilise le dice_coef et iou_coef. Sur les données tests (10% de la dataset), on obtient les performances suivantes :
 ```
-dice_coef = 71,36% 
-Iou_coef: 62,06%
+dice_coef : 71,36% 
+Iou_coef : 62,06%
 ```
 
 On enregistre le fichier de modèle et les poids (folder model_weight).
@@ -44,7 +44,7 @@ Pour les images 272x80 :
 
 
 ```
-dice_coef = 66,21% 
+dice_coef : 66,21% 
 Iou_coef: 53,70%
 ```
 
@@ -54,6 +54,6 @@ Pour les images 368x80 :
 
 
 ```
-dice_coef = 60,6% 
-Iou_coef: 53,%
+dice_coef : 60,6% 
+Iou_coef : 48,05%
 ```
