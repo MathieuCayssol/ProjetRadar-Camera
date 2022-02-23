@@ -47,3 +47,13 @@ Pour les images 272x80 :
 dice_coef = 66,21% 
 Iou_coef: 53,70%
 ```
+
+
+
+Pour les images 368x80 :
+
+
+```
+dice_coef = 60,6% 
+Iou_coef: 53,%
+```
